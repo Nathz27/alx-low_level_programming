@@ -8,7 +8,9 @@
  *
  * Return: changed rray with new value for n bytes
  */
+
 char *_memset(char *s, char b, unsigned int n)
+
 {
 	int i = 0;
 
